@@ -13,17 +13,6 @@ Este é um projeto de assistente de voz que pode ouvir comandos de voz do usuár
 - `reminders.py`: Gerencia a definição e verificação de lembretes.
 - `weather.py`: Obtém a previsão do tempo utilizando a API do OpenWeatherMap.
 
-## Requisitos
 
-- Python 3.x
-- Bibliotecas Python:
-  - `speech_recognition`
-  - `pyttsx3`
-  - `requests`
-- Microfone para entrada de voz
 
-## Instalação
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
